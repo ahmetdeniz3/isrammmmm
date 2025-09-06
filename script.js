@@ -11,6 +11,9 @@ const messages = [
     "Şakaydı,evet de lütfen! ❤️",
     "lütfen bebeğimmm",
     "lütfen balımmmmm",
+    "ama ben seni çok seviyorum🥺",
+    "tamam tamam bu sefer basabilirsin hayıra😔",
+    "ŞAKKAAAAAAA"
 ];
 
 let messageIndex = 0;

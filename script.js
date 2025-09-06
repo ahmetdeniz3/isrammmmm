@@ -27,6 +27,9 @@ function handleNoClick() {
     messageIndex = (messageIndex + 1) % messages.length;
     const currentSize = parseFloat(window.getComputedStyle(yesButton).fontSize);
     yesButton.style.fontSize = `${currentSize * 1.5}px`;
+    if(messageIndex>0){
+        document.getElementById('gif_container').src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZlM2E0N3lrdjdraDdpZ2o5Ym84bGhoeGZtbXkwM3B3aHY3b3RxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M28rUlcjueKUE/giphy.gif";
+    }
 }
 
 function handleYesClick() {

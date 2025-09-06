@@ -15,7 +15,8 @@ const messages = [
     "tamam tamam bu sefer basabilirsin hayıra😔",
     "ŞAKKAAAAAAA",
     "Hatun yeter lütfen evete bas😔",
-    "Yavrum ben eşşeğim lütfen evete bas😭"
+    "Yavrum ben eşşeğim lütfen evete bas😭",
+    "1 kere daha hayıra basarsan baştan yalvarmaya başlarım"
 ];
 
 let messageIndex = 0;

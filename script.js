@@ -5,7 +5,6 @@ const messages = [
     "Gerçekten Eminmisin??",
     "Son kararın mı??",
     "Yavrum Lütfeeeeen",
-    "Bir düşünn!",
     "Hayır dersen gerçekten üzülücem...",
     "Çok üzülücem...",
     "Çok çok çok üzülücem...",

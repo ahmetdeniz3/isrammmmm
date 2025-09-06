@@ -1,5 +1,7 @@
 const messages = [
     "Emin misin?",
+    "lütfen bebeğimmm",
+    "lütfen balımmmmm",
     "Gerçekten Eminmisin??",
     "Son kararın mı??",
     "Yavrum Lütfeeeeen",
@@ -9,11 +11,11 @@ const messages = [
     "Çok çok çok üzülücem...",
     "Tamam,sormayı bırakıcam hayıra basabilirsin...",
     "Şakaydı,evet de lütfen! ❤️",
-    "lütfen bebeğimmm",
-    "lütfen balımmmmm",
     "ama ben seni çok seviyorum🥺",
     "tamam tamam bu sefer basabilirsin hayıra😔",
-    "ŞAKKAAAAAAA"
+    "ŞAKKAAAAAAA",
+    "Hatun yeter lütfen evete bas😔",
+    "Yavrum ben eşşeğim lütfen evete bas😭"
 ];
 
 let messageIndex = 0;
